@@ -19,7 +19,7 @@ A 2D platformer game built with **Pygame**, featuring:
 
 ---
 
-## 🚀 Features
+## ✨ Features
 - **Smooth Movement & Animations**  
   Includes idle, running, jumping, and launch animations.
 
