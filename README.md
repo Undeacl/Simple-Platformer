@@ -8,6 +8,12 @@ A 2D platformer game built with **Pygame**, featuring:
 
 ---
 
+## 🎨 Credit
+- **Animation and Level System:** Developed with guidance from [YouTube tutorial series](https://www.youtube.com/watch?v=Ongc4EVqRjo&list=PLjcN1EyupaQnHM1I9SmiXfbT6aG4ezUvu) by the original creator.
+- **Character Sprites:** [Tiny Hero Sprites](https://craftpix.net/freebies/free-pixel-art-tiny-hero-sprites/) by CraftPix (royalty-free)
+- **Portal Sprites:** [Portal](https://actuallykron.itch.io/32x32-2d-portal-asset-pack) by actuallyKron
+- **Flag Sprites:** [Flag Animation](https://ankousse26.itch.io/free-flag-with-animation) by ankousse26
+
 ## 📸 Preview
 ![](https://github.com/Undeacl/Simple-Platformer/blob/main/Preview.gif)
 
