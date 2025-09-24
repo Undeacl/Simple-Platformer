@@ -9,7 +9,7 @@ A 2D platformer game built with **Pygame**, featuring:
 ---
 
 ## 📸 Preview
-![](https://github.com/Undeacl/Simple-Platformer/blob/main/image/Preview%20Gif.gif)
+![](https://github.com/Undeacl/Simple-Platformer/blob/main/Preview.gif)
 
 ---
 
@@ -30,7 +30,3 @@ A 2D platformer game built with **Pygame**, featuring:
   - Jump charging system (hold space to charge higher jumps).  
   - Collision detection with world tiles.  
   - Level reset when completed.  
-
----
-
-## 📂 Project Structure
