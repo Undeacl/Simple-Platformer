@@ -24,7 +24,7 @@ A 2D platformer game built with **Pygame**, featuring:
   Includes idle, running, jumping, and launch animations.
 
 - **Level System**  
-  Levels are loaded dynamically from `.pkl` files stored in `levels/`.
+  Levels are loaded dynamically from files stored in `levels/`.
 
 - **Environment**  
   - Sky background  
